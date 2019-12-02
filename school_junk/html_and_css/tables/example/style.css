@@ -1,0 +1,34 @@
+/* CSS styling */
+
+table{
+	border-collapse: collapse;
+}
+
+.col1{
+	border: 2px solid purple;
+	text-align: left;
+}
+
+/* #008cff */
+
+.blue{
+	border: 2px solid purple;
+	text-align: center;
+	background-color: #008cff;
+}
+
+/* #80ff80 */
+
+.green{
+	border: 2px solid purple;
+	text-align: left;
+	background-color: #80ff80;
+}
+
+/* #ffff80 */
+
+.yellow{
+	border: 2px solid purple;
+	text-align: left;
+	background-color: #ffff80;
+}
